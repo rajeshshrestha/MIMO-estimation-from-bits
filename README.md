@@ -56,7 +56,7 @@ DeepMIMO datasets can be downloaded from [here](https://drive.google.com/drive/f
 matlab -nodisplay -nosplash -nodesktop -r "main('all','from_file',10,16,32,6,300,2,6,'test',./deepmimo-datasets/user_channel_data_Boston5G_3p5_BS1_32x16antennas-deepmimov2.mat);"
 ```
 
-## References
+## Citations
 Please cite these on using this repository.
 ```
 
