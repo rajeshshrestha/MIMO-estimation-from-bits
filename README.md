@@ -49,7 +49,7 @@ main(method_type, data_type, N_trials, Nr, Nt, K_true,R, quant_bits,K_model, tes
 ```
 matlab -nodisplay -nosplash -nodesktop -r "main('all','random',10,16,32,6,300,2,6,'test');"
 ```
-**Run with DeepMIMO datasets**
+**Run with DeepMIMO datasets**.     
 DeepMIMO datasets can be downloaded from [here](https://drive.google.com/drive/folders/1IFuxRqQbU4VqrVkrk5l8ZED5kHZ8KIe2?usp=share_link).
 
 ```
